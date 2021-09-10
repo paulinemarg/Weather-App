@@ -16,5 +16,5 @@ A simple weather app using vue that loads data from [weatherApi](https://openwea
 
 
 
-> Visit the app here: [weatherApp]()
+> Visit the app here: [weatherApp](https://paulinemarg.github.io/Weather-App)
 ```
