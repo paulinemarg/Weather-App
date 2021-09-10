@@ -13,8 +13,3 @@ A simple weather app using vue that loads data from [weatherApi](https://openwea
 
 > * The app uses single file components format 
 > * The app is written with Vue.
-
-
-
-> Visit the app here: [weatherApp](https://paulinemarg.github.io/Weather-App)
-```
