@@ -1,15 +1,27 @@
-<h1 align="center">Weather App</h1>
+# Weather-App ☀️❄️
 
-## Objective
-A simple weather app using vue that loads data from [weatherApi](https://openweathermap.org/api)
+## About
+A simple weather app using vue that loads data from [weatherApi](https://openweathermap.org/api). A user is able to search for a city and view the weather. The background of the app changes with the weather (cold or warm).
 
-### Key Features
+![Weather-App](/weather.jpg)
 
-> * Loads data from an external Api
-> * A user is able to search for a city & view the date and the weather of that city at that exact time.
-> * Background of the app changes with the weather (cold or warm).
+## Get started 🚀
 
-### Technical Requirements
+1. Download the app
+2. Configure the app 
+```
+npm install
+```
+3. Run the app
+```
+npm run serve
+```
+## Run application in browser
 
-> * The app uses single file components format 
-> * The app is written with Vue.
+The app will run a local server on port: 8080
+
+Open the application in your browser
+
+```
+http://localhost:8080/
+```
