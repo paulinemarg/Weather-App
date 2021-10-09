@@ -1,5 +1,7 @@
 # Weather-App ☀️❄️
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9bc2631d-3277-4a21-bce3-9cc1bc4a3249/deploy-status)](https://app.netlify.com/sites/paulinemarg-weatherapp/deploys)
+
 ## About
 A simple weather app using vue that loads data from [weatherApi](https://openweathermap.org/api). A user is able to search for a city and view the weather. The background of the app changes with the weather (cold or warm).
 You can visit the app [here](https://paulinemarg-weatherapp.netlify.app)
