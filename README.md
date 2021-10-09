@@ -2,6 +2,7 @@
 
 ## About
 A simple weather app using vue that loads data from [weatherApi](https://openweathermap.org/api). A user is able to search for a city and view the weather. The background of the app changes with the weather (cold or warm).
+You can visit the app [here](https://paulinemarg-weatherapp.netlify.app)
 
 ![Weather-App](/weather.jpg)
 
